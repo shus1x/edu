@@ -13,9 +13,9 @@ navigation:
   logo:
     url: "https://github.com/shus1x"
     dark:
-      icon: "https://github.com/shus1x/test-diplodoc/blob/test-l/assets/images/Logo.png"
+      icon: "https://github.com/shus1x/test-diplodoc/blob/test-l/_assets/images/Logo.png"
     light:
-      icon: "https://github.com/shus1x/test-diplodoc/blob/test-l/assets/images/Logo.png"
+      icon: "https://github.com/shus1x/test-diplodoc/blob/test-l/_assets/images/Logo.png"
   header:
     leftItems:
       - text: "Оглавление"
