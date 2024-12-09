@@ -18,15 +18,6 @@ navigation:
       icon: "https://github.com/shus1x/test-diplodoc/blob/test-l/_assets/images/Logo.png"
   header:
     leftItems:
-      - text: "Оглавление"
-        type: 
-        url: 
-      - text: "Помощь"
-        type: 
-        href: 
-      - text: "Gitgub"
-        type: 
-        href: 
     rightItems:
       - type: 'controls'
       - search:
