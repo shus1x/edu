@@ -19,11 +19,14 @@ navigation:
   header:
     leftItems:
       - text: "Оглавление"
-        type: "link"
-        url: "../ru"
+        type: 
+        url: 
       - text: "Помощь"
-        type: "link"
-        href: help.md
+        type: 
+        href: 
+      - text: "Gitgub"
+        type: 
+        href: 
     rightItems:
       - type: 'controls'
       - search:
