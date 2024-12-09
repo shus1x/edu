@@ -23,7 +23,7 @@ navigation:
         url: "../ru"
       - text: "Помощь"
         type: "link"
-        url: "./help"
+        href: help.md
     rightItems:
       - type: 'controls'
 
