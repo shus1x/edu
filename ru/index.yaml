@@ -1,15 +1,15 @@
 title: Документация
 description: Документация Учебного портала. Версия 1.01
 meta:
-  title: Метаданные
+  title:
   noIndex: true
 links:
 - title: Помощь
   description: Описание всех возможностей того, как связаться с нами
-  href: help.md
+  href: 
 - title: Правила
   description: Описание платформы, ее основные возможности, особенности и преимущества.
-  href: rules.md
+  href:
 - title: Обзор Учебного портала
   description: Описание платформы, ее основные возможности, особенности и преимущества.
   href: about_mini.md
@@ -17,6 +17,6 @@ links:
   description: Базовые настройки, инструкции, требования.
   href: work.md
 - title: База знаний ФИЛОСОФТ
-  description: wiki filo-soft
+  description: _ссылка на вики философт_
 - title: Информация
   description: По всем вопросам можно обращаться к сотрудникам учебного центра  
