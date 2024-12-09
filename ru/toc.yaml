@@ -26,6 +26,11 @@ navigation:
         href: help.md
     rightItems:
       - type: 'controls'
+      - search:
+          provider: local
+          toleranse: 2
+          confidense: phrased
+
 
 items: 
   - name: Обзор Учебного портала
