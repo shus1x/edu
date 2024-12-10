@@ -1,4 +1,4 @@
-# Diplodoc Static Template (((
+# Diplodoc Static Template 
 
 ### Confgure GitHub Pages
 
