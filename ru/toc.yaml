@@ -18,15 +18,20 @@ navigation:
       icon: "https://github.com/shus1x/test-diplodoc/blob/test-l/_assets/images/Logo.png"
   header:
     leftItems:
+      - text: "Overview"
+        type: "link"
+        url: "../en"
+      - text: "Help"
+        type: "link"
+        url: "./help" 
     rightItems:
       - type: 'controls'
-      - search:
-          provider: local
-          toleranse: 2
-          confidense: phrased
-
 
 items: 
+  - name: Help
+    href: help.md
+  - name: Rules
+    href: rules.md
   - name: Обзор Учебного портала
     href: about_mini.md
   - name: Начало работы

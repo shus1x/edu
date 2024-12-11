@@ -23,7 +23,7 @@ navigation:
         url: "../en"
       - text: "Help"
         type: "link"
-        url: "./help"
+        url: "./help" 
     rightItems:
       - type: 'controls'
 
