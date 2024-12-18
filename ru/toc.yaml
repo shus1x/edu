@@ -57,7 +57,9 @@ items:
           - name: Элементы курса
             href: manual/new_course2.md
           - name: Видео
-            href: manual/new_video_course.md            
+            href: manual/new_video_course.md
+      - name: Новое
+      - href: edu/test.md
   - name: Модули Учебного портала
     expanded: false
     href: 
