@@ -36,6 +36,8 @@ items:
     href: about_mini.md
   - name: Начало работы
     href: work.md
+  - name: Новое
+  - href: edu/test.md
   - name: Инструкции
     expanded: false 
     href: 
@@ -49,8 +51,6 @@ items:
                  href: edu/favicon.md
                - name: Редактирование футера 
                  href: edu/footer.md
-               - name: Новое
-               - href: edu/test.md  
       - name: Курсы
         href: 
         items:
