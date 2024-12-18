@@ -49,6 +49,8 @@ items:
                  href: edu/favicon.md
                - name: Редактирование футера 
                  href: edu/footer.md
+               - name: Новое
+               - href: edu/test.md  
       - name: Курсы
         href: 
         items:
@@ -58,8 +60,6 @@ items:
             href: manual/new_course2.md
           - name: Видео
             href: manual/new_video_course.md
-      - name: Новое
-      - href: edu/test.md
   - name: Модули Учебного портала
     expanded: false
     href: 
