@@ -37,7 +37,7 @@ items:
   - name: Начало работы
     href: work.md
   - name: Новое
-  - href: edu/test.md
+    href: edu/test.md
   - name: Инструкции
     expanded: false 
     href: 
