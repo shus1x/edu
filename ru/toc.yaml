@@ -13,11 +13,9 @@ navigation:
   logo:
     url: "https://github.com/shus1x"
     dark:
-      icon: "https://raw.githubusercontent.com/shus1x/edu/refs/heads/master/_assets/images/Logo.png"
-      width: 158
-      height: 32
+      icon: "https://raw.githubusercontent.com/shus1x/edu/refs/heads/master/_assets/images/Logo%20(1)%20(1).png"
     light:
-      icon: ""
+      icon: "https://raw.githubusercontent.com/shus1x/edu/refs/heads/master/_assets/images/Logo%20(1)%20(1).png"
   header:
     leftItems:
       - text: "Overview"
