@@ -15,7 +15,7 @@ navigation:
     dark:
       icon: "https://raw.githubusercontent.com/shus1x/edu/refs/heads/master/_assets/images/Logo.png"
     light:
-      icon: "https://raw.githubusercontent.com/shus1x/edu/refs/heads/master/_assets/images/Logo.png"
+      icon: ""
   header:
     leftItems:
       - text: "Overview"
