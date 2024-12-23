@@ -71,30 +71,6 @@ blocks:
       - title: 'Кабинет адаптации'
         icon: 'https://storage.yandexcloud.net/cloud-www-assets/pages/how-to-diplodoc/how-to-diplodoc-04.svg'
         text: 'Комплекс мероприятий, целью которых является успешное включение сотрудников в рабочую среду, что позволяет им быстрее освоиться и начать эффективно выполнять свои обязанности.'           
-  
-  - type: 'icons-block'
-    size: 'm'
-    title: 'Информация'
-    items:
-      - src: 
-        text: 'Помощь'
-        url: 'https://edu.zhcom.ru/docs/ru/help.html'
-      - src: 
-        text: 'Правила'
-        url: 'https://edu.zhcom.ru/docs/ru/rules.html'
-      - src: 
-        text: 'Обзор Учебного портала'
-        url: 'https://edu.zhcom.ru/docs/ru/about_mini.html'        
-      - src: 
-        text: 'С чего начать'
-        url: 'https://edu.zhcom.ru/docs/ru/work.html'        
-      - src: 
-        text: 'База знаний ФИЛОСОФТ'
-        url: 'https://wiki.filo-soft.ru/books/instrukcii-ucebnogo-portala-N5n'    
-      - src: 
-        text: 'По всем вопросам можно обращаться к сотрудникам учебного центра'
-        url:        
-
 links:
 - title: Помощь
   description: Описание всех возможностей того, как связаться с нами
