@@ -32,8 +32,6 @@ items:
     href: help.md
   - name: Rules
     href: rules.md
-  - name: Обзор (Тест)
-    href: in.yaml
   - name: Обзор Учебного портала
     href: about_mini.md
   - name: Начало работы
