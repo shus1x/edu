@@ -5,10 +5,10 @@ meta:
   noIndex: true
 links:
 - title: Помощь
-  description: Описание всех возможностей того, как связаться с нами
+  description: 
   href: help.md
 - title: Правила
-  description: Описание платформы, ее основные возможности, особенности и преимущества.
+  description: 
   href: rules.md
 - title: Обзор Учебного портала
   description: Описание платформы, ее основные возможности, особенности и преимущества.
