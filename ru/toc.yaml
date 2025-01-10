@@ -1,0 +1,100 @@
+title: Документация учебого портала
+href: index.yaml
+
+analytics:
+  text: 'Мы используем файлы cookie, чтобы вы могли наилучшим образом пользоваться нашим веб-сайтом. Если вы продолжаете использовать наш веб-сайт, мы полагаем, что вы согласны с таким использованием.'
+  buttons:
+    accept:
+      text: "Ок"
+      theme: "accent"
+      size: "xl"
+
+navigation:
+  logo:
+    url: "https://github.com/shus1x"
+    dark:
+      icon: ""
+    light:
+      icon: ""
+  header:
+    leftItems:
+      - text: "Overview"
+        type: "link"
+        url: "../en"
+      - text: "Help"
+        type: "link"
+        url: "./help" 
+    rightItems:
+      - type: 'controls'
+
+items: 
+  - name: Help
+    href: help.md
+  - name: Rules
+    href: rules.md
+  - name: Обзор (Тест)
+    href: in.yaml
+  - name: Обзор Учебного портала
+    href: about_mini.md
+  - name: Начало работы
+    href: work.md
+  - name: Инструкции
+    expanded: false 
+    href: edu/test.md
+    items:
+      - name: Редактирование Учебного портала
+        href: 
+        items:
+          - name: Favicon/Footer
+            items:   
+               - name: Редактирование фавикона
+                 href: edu/favicon.md
+               - name: Редактирование футера 
+                 href: edu/footer.md
+      - name: Курсы
+        href: 
+        items:
+          - name: Создание курса
+            href: manual/new_course1.md
+          - name: Элементы курса
+            href: manual/new_course2.md
+          - name: Видео
+            href: manual/new_video_course.md
+  - name: Модули Учебного портала
+    expanded: false
+    href: 
+    items:
+      - name: Оценка 360
+        items:
+          - name: Обзор модуля
+            href: edu_mod/360_docs_info.md
+          - name: Настройка после развертывания
+            href: edu_mod/360_open.md
+      - name: Кабинет руководителя
+        items:
+          - name: Обзор модуля
+            href: edu_mod/ipr_docs_info.md
+          - name: Настройка после развертывания
+            href: edu_mod/ipr_open.md
+      - name: Кабинет адаптации
+        items:
+          - name: Обзор модуля
+            href: edu_mod/adaptation_docs_info.md
+          - name: Настройка после развертывания 
+            href: edu_mod/adaptation_open.md
+      - name: Библиотека
+        items:
+          - name: Обзор модуля
+            href: edu_mod/lib_docs_info.md
+          - name: Настройка после развертывания 
+            href: edu_mod/lib_open.md
+          - name: Создание/Добавление книги
+            href: manual/new_book.md    
+      - name: Кабинет учителя
+        items: 
+          - name: Обзор модуля
+            href: edu_mod/teacher_open_info.md
+          - name: Настройка после развертывания
+            href:    
+      - name: Отчёты
+        href: edu_mod/report.md            

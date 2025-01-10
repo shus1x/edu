@@ -1,0 +1,73 @@
+blocks:
+  - type: 'header-block'
+    width: 's'
+    offset: 'default'
+    title: 'Обзор Учебного портала'
+    resetPaddings: true
+    verticalOffset: 'l'
+    description: 'Учебный портал - это онлайн платформа для образовательных ресурсов и услуг, способствующая взаимодействию учащихся и преподавателей. Имеет иструменты:
+
+      * Управление курсами;
+
+      * Оценивание и тестирование;
+
+      * Коммуникация и взаимодействие;
+
+      * Поддержка различных форматов контента;
+
+      * Управление пользователями;
+
+      * Отчеты и аналитика;
+
+      * ~~Мобильная доступность~~;
+
+      * Интеграция с другими системами.'
+    background:
+      light:
+        image:
+          desktop: 'https://storage.yandexcloud.net/diplodoc-www-assets/pages/how-to-diplodoc/ddos-how-cover.png'
+          mobile: 'https://storage.yandexcloud.net/diplodoc-www-assets/pages/how-to-diplodoc/ddos-how-cover-mini.png'
+          disableCompress: true
+        color: '#fe8b4d'
+        fullWidth: false
+      dark:
+        image:
+          desktop: 'https://storage.yandexcloud.net/diplodoc-www-assets/pages/how-to-diplodoc/ddos-how-cover-dark.png'
+          mobile: 'https://storage.yandexcloud.net/diplodoc-www-assets/pages/how-to-diplodoc/ddos-how-cover-mini.png'
+          disableCompress: true
+        color: '#fe8b4d'
+        fullWidth: false
+
+  - type: 'extended-features-block'
+    title:
+      text: 'Модули Учебного портала'
+    colSizes:
+      all: 12
+      xl: 3
+      md: 4
+      sm: 6
+    items:
+      - title: 'Библиотека'
+        icon: 'https://storage.yandexcloud.net/cloud-www-assets/pages/how-to-diplodoc/how-to-diplodoc-01.svg'
+        text: 'Объединяет онлайн и оффлайн доступ к учебным материалам, предоставляя широкий выбор литературы и удобные инструменты.'
+      - title: 'Железно-TV'
+        icon: 'https://storage.yandexcloud.net/cloud-www-assets/pages/how-to-diplodoc/how-to-diplodoc-02.svg'
+        text: 'Позволяет доступ к разнообразному видеоконтенту: корпоративные фильмы, обучающие материалы и новости. '
+      - title: 'Монетный двор'
+        icon: 'https://storage.yandexcloud.net/cloud-www-assets/pages/how-to-diplodoc/how-to-diplodoc-03.svg'
+        text: 'С внутренней валютой "DAR" для приобретения товаров и услуг, делая жизнь студентов и преподавателей удобнее и интереснее.'
+      - title: 'Кабинет учителя'
+        icon: 'https://storage.yandexcloud.net/cloud-www-assets/pages/how-to-diplodoc/how-to-diplodoc-04.svg'
+        text: 'Предоставляет учителям инструменты для управления учебным процессом и взаимодействия с учениками. В этом модуле учителя могут создавать и настраивать различные элементы, необходимые для организации учебного процесса.'
+      - title: 'Отчеты'
+        icon: 'https://storage.yandexcloud.net/cloud-www-assets/pages/how-to-diplodoc/how-to-diplodoc-04.svg'
+        text: 'позволяют преподавателям и администраторам отслеживать активность студентов, оценивать их успеваемость и принимать обоснованные решения на основе собранных данных.'
+      - title: 'Оценка 360'
+        icon: 'https://storage.yandexcloud.net/cloud-www-assets/pages/how-to-diplodoc/how-to-diplodoc-03.svg'
+        text: 'Позволяет получить всестороннюю обратную связь о профессиональных навыках и поведении сотрудника, что делает его особенно ценным для развития и улучшения качества работы.'
+      - title: 'Кабинет руководителя'
+        icon: 'https://storage.yandexcloud.net/cloud-www-assets/pages/how-to-diplodoc/how-to-diplodoc-04.svg'
+        text: 'Для управления развитием специалистов и повышения эффективности работы команды.'
+      - title: 'Кабинет адаптации'
+        icon: 'https://storage.yandexcloud.net/cloud-www-assets/pages/how-to-diplodoc/how-to-diplodoc-04.svg'
+        text: 'Комплекс мероприятий, целью которых является успешное включение сотрудников в рабочую среду, что позволяет им быстрее освоиться и начать эффективно выполнять свои обязанности.'              
