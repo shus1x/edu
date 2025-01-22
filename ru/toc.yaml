@@ -34,65 +34,43 @@ items:
     href: rules.md
   - name: Обзор Учебного портала
     href: about_mini.md
+  - name: Обзор Учебного портала (тест)
+    href: indextest.yaml  
   - name: Начало работы
     href: work.md
   - name: Инструкции
-    expanded: false 
     href: edu/test.md
-    items:
-      - name: Редактирование Учебного портала
-        href: 
-        items:
-          - name: Favicon/Footer
-            items:   
-               - name: Редактирование фавикона
-                 href: edu/favicon.md
-               - name: Редактирование футера 
-                 href: edu/footer.md
-      - name: Курсы
-        href: 
-        items:
-          - name: Создание курса
-            href: manual/new_course1.md
-          - name: Элементы курса
-            href: manual/new_course2.md
-          - name: Видео
-            href: manual/new_video_course.md
-  - name: Модули Учебного портала
-    expanded: false
-    href: 
-    items:
-      - name: Оценка 360
-        items:
-          - name: Обзор модуля
-            href: edu_mod/360_docs_info.md
-          - name: Настройка после развертывания
-            href: edu_mod/360_open.md
-      - name: Кабинет руководителя
-        items:
-          - name: Обзор модуля
-            href: edu_mod/ipr_docs_info.md
-          - name: Настройка после развертывания
-            href: edu_mod/ipr_open.md
-      - name: Кабинет адаптации
-        items:
-          - name: Обзор модуля
-            href: edu_mod/adaptation_docs_info.md
-          - name: Настройка после развертывания 
-            href: edu_mod/adaptation_open.md
-      - name: Библиотека
-        items:
-          - name: Обзор модуля
-            href: edu_mod/lib_docs_info.md
-          - name: Настройка после развертывания 
-            href: edu_mod/lib_open.md
-          - name: Создание/Добавление книги
-            href: manual/new_book.md    
-      - name: Кабинет учителя
-        items: 
-          - name: Обзор модуля
-            href: edu_mod/teacher_open_info.md
-          - name: Настройка после развертывания
-            href:    
-      - name: Отчёты
-        href: edu_mod/report.md            
+  - name: Редактирование фавикона
+    href: edu/favicon.md
+  - name: Редактирование футера 
+    href: edu/footer.md
+  - name: Создание курса
+    href: manual/new_course1.md
+  - name: Элементы курса
+    href: manual/new_course2.md
+  - name: Видео
+    href: manual/new_video_course.md
+  - name: Обзор модуля Оценка 360
+    href: edu_mod/360_docs_info.md
+  - name: Настройка после развертывания
+    href: edu_mod/360_open.md
+  - name: Обзор модуля Кабинет руководителя
+    href: edu_mod/ipr_docs_info.md
+  - name: Настройка после развертывания
+    href: edu_mod/ipr_open.md
+  - name: Обзор модуля Кабинет адаптации
+    href: edu_mod/adaptation_docs_info.md
+  - name: Настройка после развертывания 
+    href: edu_mod/adaptation_open.md
+  - name: Обзор модуля Библиотека
+    href: edu_mod/lib_docs_info.md
+  - name: Настройка после развертывания 
+    href: edu_mod/lib_open.md
+  - name: Создание/Добавление книги
+    href: manual/new_book.md    
+  - name: Обзор модуля Кабинет учителя
+    href: edu_mod/teacher_open_info.md 
+  - name: Отчёты
+    href: edu_mod/report.md          
+  - name: Новое
+    href: edu/123.md 
